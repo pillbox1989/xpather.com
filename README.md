@@ -1,9 +1,9 @@
 # xpather.com
 
-**由于[http://www.xpather.com/](http://www.xpather.com/) 官网经常抽风，平时很难打开，使用上很不方便，于是将xpather官网的代码保存下来，方便本地离线使用**
+為了可以離線使用 [xpather](http://www.xpather.com/) 的解析功能，將整個專案fork一份保留下來。
 
-- 使用方法：将本项目代码放入静态服务器启动即可
+只要將整個目錄使用Apache Web Server或是nginx等靜態網頁伺服器啟動即可。
 
-## 截图
+## 截圖
 
 ![image](https://raw.githubusercontent.com/stx0821/xpather.com/master/img.jpg)
